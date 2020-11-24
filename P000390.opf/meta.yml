@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W21849
   title: འགྲོ་བ་བཟང་མོ།
-  volume: ''
+  volume:
+    857d77be10d94c16bfaaa630ab487cc9:
+      image_group_id: I1KG23002
+      title: Volume 1 of 'gro ba bzang mo/
+      volume_number: 1
+      total_pages: 134
   author: ''
+ebook_metadata:
+  title: འགྲོ་བ་བཟང་མོ།
+  author: ''
+  sku: P000390
+  cover: cover.jpg
+  layers:
+  - pagination
